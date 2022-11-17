@@ -1,1 +1,1 @@
-# Face_match
+# Face recognition with pytorch using facenet_pytorch library
